@@ -1,1 +1,70 @@
-
+{
+    "settings": {
+        "suggestionStrategy": "hardFirst"
+    },
+    "tasks": [
+        {
+            "id": "task-1658864400000",
+            "title": "Complete Math Assignment",
+            "type": "school",
+            "priority": "high",
+            "dueDate": "2024-07-28",
+            "notes": "Chapter 5, Problems 1-10. Focus on differentiation rules.",
+            "subject": "Math",
+            "dynamicPriority": false,
+            "difficulty": "hard",
+            "completed": false,
+            "completedAt": null,
+            "subtasks": [
+                { "id": "sub-1", "text": "Solve problems 1-5", "completed": true },
+                { "id": "sub-2", "text": "Solve problems 6-10", "completed": false }
+            ],
+            "recurring": { "frequency": "none" }
+        },
+        {
+            "id": "task-1658950800000",
+            "title": "Prepare for Physics Quiz",
+            "type": "coaching",
+            "priority": "medium",
+            "dueDate": "2024-07-29",
+            "notes": "Review notes on Kinematics and Newton's Laws.",
+            "subject": "Physics",
+            "dynamicPriority": true,
+            "difficulty": "medium",
+            "completed": false,
+            "completedAt": null,
+            "subtasks": [],
+            "recurring": { "frequency": "weekly", "nextDueDate": "2024-08-05" }
+        },
+        {
+            "id": "task-1659037200000",
+            "title": "Work on JavaScript Project",
+            "type": "self-study",
+            "priority": "low",
+            "dueDate": "2024-08-15",
+            "notes": "Implement the new feature for data visualization. Use D3.js.",
+            "subject": "Programming",
+            "dynamicPriority": true,
+            "difficulty": "hard",
+            "completed": true,
+            "completedAt": "2024-07-20T10:00:00.000Z",
+            "subtasks": [],
+            "recurring": { "frequency": "none" }
+        },
+        {
+            "id": "task-1659123600000",
+            "title": "Read History Chapter 10",
+            "type": "school",
+            "priority": "low",
+            "dueDate": "2024-08-01",
+            "notes": "Summarize the key events of the chapter.",
+            "subject": "History",
+            "dynamicPriority": true,
+            "difficulty": "easy",
+            "completed": false,
+            "completedAt": null,
+            "subtasks": [],
+            "recurring": { "frequency": "none" }
+        }
+    ]
+} 
