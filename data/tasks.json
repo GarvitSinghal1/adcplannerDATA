@@ -13,8 +13,8 @@
       "subject": "Math",
       "dynamicPriority": false,
       "difficulty": "hard",
-      "completed": false,
-      "completedAt": null,
+      "completed": true,
+      "completedAt": "2025-06-16T10:04:44.025Z",
       "subtasks": [
         {
           "id": "sub-1",
