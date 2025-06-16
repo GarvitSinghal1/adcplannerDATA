@@ -46,7 +46,7 @@
       "subtasks": [],
       "recurring": {
         "frequency": "weekly",
-        "nextDueDate": "2024-08-11"
+        "nextDueDate": "2024-08-17"
       }
     },
     {
@@ -89,6 +89,23 @@
       "type": "coaching",
       "priority": "high",
       "dueDate": "2024-08-05",
+      "notes": "Review notes on Kinematics and Newton's Laws.",
+      "subject": "Physics",
+      "dynamicPriority": true,
+      "difficulty": "medium",
+      "completed": false,
+      "completedAt": null,
+      "subtasks": [],
+      "recurring": {
+        "frequency": "weekly"
+      }
+    },
+    {
+      "id": "task-1750076765677",
+      "title": "Prepare for Physics Quiz",
+      "type": "coaching",
+      "priority": "high",
+      "dueDate": "2024-08-11",
       "notes": "Review notes on Kinematics and Newton's Laws.",
       "subject": "Physics",
       "dynamicPriority": true,
