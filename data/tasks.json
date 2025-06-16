@@ -33,7 +33,7 @@
     },
     {
       "id": "task-1658950800000",
-      "title": "Prepare for Physics Quiz",
+      "title": "Prepare awdawdawdawd",
       "type": "coaching",
       "priority": "high",
       "dueDate": "2024-07-29",
@@ -41,12 +41,9 @@
       "subject": "Physics",
       "dynamicPriority": true,
       "difficulty": "medium",
-      "completed": false,
-      "completedAt": null,
       "subtasks": [],
       "recurring": {
-        "frequency": "weekly",
-        "nextDueDate": "2024-08-17"
+        "frequency": "weekly"
       }
     },
     {
