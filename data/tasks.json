@@ -113,6 +113,21 @@
       "recurring": {
         "frequency": "weekly"
       }
+    },
+    {
+      "id": "task-1750080636824",
+      "title": "wdawdaw",
+      "type": "school",
+      "priority": "high",
+      "dueDate": "0086-07-05",
+      "notes": "awde",
+      "subject": "",
+      "dynamicPriority": false,
+      "difficulty": "easy",
+      "subtasks": [],
+      "recurring": {
+        "frequency": "none"
+      }
     }
   ]
 }
