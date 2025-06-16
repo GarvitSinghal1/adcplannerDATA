@@ -32,21 +32,6 @@
       }
     },
     {
-      "id": "task-1658950800000",
-      "title": "Prepare awdawdawdawd",
-      "type": "coaching",
-      "priority": "high",
-      "dueDate": "2024-07-29",
-      "notes": "Review notes on Kinematics and Newton's Laws.",
-      "subject": "Physics",
-      "dynamicPriority": true,
-      "difficulty": "medium",
-      "subtasks": [],
-      "recurring": {
-        "frequency": "weekly"
-      }
-    },
-    {
       "id": "task-1659037200000",
       "title": "Work on JavaScript Project",
       "type": "self-study",
