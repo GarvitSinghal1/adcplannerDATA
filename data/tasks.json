@@ -13,61 +13,15 @@
       "subject": "Programming",
       "dynamicPriority": true,
       "difficulty": "hard",
-      "completed": true,
-      "completedAt": "2024-07-20T10:00:00.000Z",
-      "subtasks": [],
-      "recurring": {
-        "frequency": "none"
-      }
-    },
-    {
-      "id": "task-1659123600000",
-      "title": "Wingadium leviosa",
-      "type": "school",
-      "priority": "high",
-      "dueDate": "2024-08-01",
-      "notes": "Summarize the key events of the chapter.",
-      "subject": "History",
-      "dynamicPriority": true,
-      "difficulty": "easy",
       "completed": false,
-      "completedAt": null,
+      "completedAt": "null",
       "subtasks": [],
       "recurring": {
         "frequency": "none"
       }
     },
-    {
-      "id": "task-1750068272149",
-      "title": "Prepare for Physics Quiz",
-      "type": "coaching",
-      "priority": "high",
-      "dueDate": "2024-08-05",
-      "notes": "Review notes on Kinematics and Newton's Laws.",
-      "subject": "Physics",
-      "dynamicPriority": true,
-      "difficulty": "medium",
-      "completed": true,
-      "completedAt": "2025-06-16T10:39:33.009Z",
-      "subtasks": [],
-      "recurring": {
-        "frequency": "weekly"
-      }
-    },
-    {
-      "id": "task-1750070373010",
-      "title": "awdawdawdawd",
-      "type": "coaching",
-      "priority": "high",
-      "dueDate": "2024-08-12",
-      "notes": "Review notes on Kinematics and Newton's Laws.",
-      "subject": "Physics",
-      "dynamicPriority": true,
-      "difficulty": "medium",
-      "subtasks": [],
-      "recurring": {
-        "frequency": "weekly"
-      }
+
+    
     }
   ]
 }
