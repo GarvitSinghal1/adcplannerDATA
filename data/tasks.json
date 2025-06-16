@@ -113,21 +113,6 @@
       "recurring": {
         "frequency": "weekly"
       }
-    },
-    {
-      "id": "task-1750076818295",
-      "title": "4erfsrf",
-      "type": "school",
-      "priority": "high",
-      "dueDate": "2140-06-05",
-      "notes": "",
-      "subject": "esfsef",
-      "dynamicPriority": false,
-      "difficulty": "easy",
-      "subtasks": [],
-      "recurring": {
-        "frequency": "none"
-      }
     }
   ]
 }
