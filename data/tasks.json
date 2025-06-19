@@ -66,6 +66,21 @@
       },
       "completed": true,
       "completedAt": "2025-06-19T16:55:35.954Z"
+    },
+    {
+      "id": "task-1750352236522",
+      "title": "Math rev 19/06",
+      "type": "coaching",
+      "priority": "high",
+      "dueDate": "2025-06-19",
+      "notes": "",
+      "subject": "Math",
+      "dynamicPriority": true,
+      "difficulty": "easy",
+      "subtasks": [],
+      "recurring": {
+        "frequency": "none"
+      }
     }
   ]
 }
