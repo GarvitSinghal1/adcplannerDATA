@@ -49,21 +49,6 @@
       "recurring": {
         "frequency": "none"
       }
-    },
-    {
-      "id": "task-1750336056048",
-      "title": "Chem REV",
-      "type": "coaching",
-      "priority": "high",
-      "dueDate": "2025-06-19",
-      "notes": "",
-      "subject": "Chem",
-      "dynamicPriority": false,
-      "difficulty": "medium",
-      "subtasks": [],
-      "recurring": {
-        "frequency": "none"
-      }
     }
   ]
 }
