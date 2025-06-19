@@ -64,6 +64,21 @@
       "recurring": {
         "frequency": "none"
       }
+    },
+    {
+      "id": "task-1750343286601",
+      "title": "Ml1 till Q9",
+      "type": "coaching",
+      "priority": "medium",
+      "dueDate": "2025-06-21",
+      "notes": "",
+      "subject": "Maths",
+      "dynamicPriority": false,
+      "difficulty": "medium",
+      "subtasks": [],
+      "recurring": {
+        "frequency": "none"
+      }
     }
   ]
 }
