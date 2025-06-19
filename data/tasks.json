@@ -21,6 +21,21 @@
       }
     },
     {
+      "id": "task-1750336054623",
+      "title": "Chem REV",
+      "type": "coaching",
+      "priority": "high",
+      "dueDate": "2025-06-19",
+      "notes": "",
+      "subject": "Chem",
+      "dynamicPriority": false,
+      "difficulty": "medium",
+      "subtasks": [],
+      "recurring": {
+        "frequency": "none"
+      }
+    },
+    {
       "id": "task-1750335607139",
       "title": "Do AS1",
       "type": "coaching",
@@ -36,7 +51,7 @@
       }
     },
     {
-      "id": "task-1750336054623",
+      "id": "task-1750336056048",
       "title": "Chem REV",
       "type": "coaching",
       "priority": "high",
