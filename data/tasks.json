@@ -19,6 +19,21 @@
       "recurring": {
         "frequency": "none"
       }
+    },
+    {
+      "id": "task-1750335607139",
+      "title": "Do AS1",
+      "type": "coaching",
+      "priority": "medium",
+      "dueDate": "2025-06-21",
+      "notes": "",
+      "subject": "Chem",
+      "dynamicPriority": false,
+      "difficulty": "easy",
+      "subtasks": [],
+      "recurring": {
+        "frequency": "none"
+      }
     }
   ]
 }
