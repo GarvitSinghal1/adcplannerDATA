@@ -4,21 +4,6 @@
   },
   "tasks": [
     {
-      "id": "task-1750335607139",
-      "title": "Do AS1",
-      "type": "coaching",
-      "priority": "medium",
-      "dueDate": "2025-06-21",
-      "notes": "",
-      "subject": "Chem",
-      "dynamicPriority": false,
-      "difficulty": "easy",
-      "subtasks": [],
-      "recurring": {
-        "frequency": "none"
-      }
-    },
-    {
       "id": "task-1659037200000",
       "title": "Work on JavaScript Project",
       "type": "self-study",
@@ -30,6 +15,21 @@
       "difficulty": "hard",
       "completed": true,
       "completedAt": "2024-07-20T10:00:00.000Z",
+      "subtasks": [],
+      "recurring": {
+        "frequency": "none"
+      }
+    },
+    {
+      "id": "task-1750335607139",
+      "title": "Do AS1",
+      "type": "coaching",
+      "priority": "medium",
+      "dueDate": "2025-06-21",
+      "notes": "",
+      "subject": "Chem",
+      "dynamicPriority": false,
+      "difficulty": "easy",
       "subtasks": [],
       "recurring": {
         "frequency": "none"
@@ -50,7 +50,7 @@
         "frequency": "none"
       },
       "completed": true,
-      "completedAt": "2025-06-19T16:55:38.354Z"
+      "completedAt": "2025-06-19T16:55:39.436Z"
     },
     {
       "id": "task-1750336054623",
