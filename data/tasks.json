@@ -83,6 +83,21 @@
       "recurring": {
         "frequency": "none"
       }
+    },
+    {
+      "id": "task-1750393923546",
+      "title": "Rev & copy phy",
+      "type": "coaching",
+      "priority": "high",
+      "dueDate": "2025-06-20",
+      "notes": "",
+      "subject": "phy",
+      "dynamicPriority": true,
+      "difficulty": "medium",
+      "subtasks": [],
+      "recurring": {
+        "frequency": "none"
+      }
     }
   ]
 }
