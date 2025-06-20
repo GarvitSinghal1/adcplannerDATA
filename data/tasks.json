@@ -4,23 +4,6 @@
   },
   "tasks": [
     {
-      "id": "task-1659037200000",
-      "title": "Work on JavaScript Project",
-      "type": "self-study",
-      "priority": "low",
-      "dueDate": "2024-08-15",
-      "notes": "Implement the new feature for data visualization. Use D3.js.",
-      "subject": "Programming",
-      "dynamicPriority": true,
-      "difficulty": "hard",
-      "completed": true,
-      "completedAt": "2024-07-20T10:00:00.000Z",
-      "subtasks": [],
-      "recurring": {
-        "frequency": "none"
-      }
-    },
-    {
       "id": "task-1750335607139",
       "title": "Do AS1",
       "type": "coaching",
