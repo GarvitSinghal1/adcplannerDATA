@@ -136,23 +136,6 @@
       "completedAt": "2025-06-20T13:33:51.141Z"
     },
     {
-      "id": "task-1750426431141",
-      "title": "SAT english practice",
-      "type": "self-study",
-      "priority": "high",
-      "dueDate": "2025-06-22",
-      "notes": "SAT English Prep (Total 2 Hours/Week):\nSession 1: \"Drill\" (1 Hour - e.g., Wednesday):\n15 mins: Khan Academy \"Writing\" (Grammar) Drills.\n45 mins: Khan Academy \"Reading\" Drills (Focus on ONE question type per week).\n\n\nSession 2: \"Test & Review\" (1 Hour - e.g., Saturday):\n35 mins: One timed \"Reading & Writing\" section from the official Bluebook™ app.\n25 mins: Log every mistake in your Error Log (Notebook/Spreadsheet). Analyse why you were wrong.",
-      "subject": "English",
-      "dynamicPriority": false,
-      "difficulty": "medium",
-      "subtasks": [],
-      "recurring": {
-        "frequency": "weekly"
-      },
-      "completed": true,
-      "completedAt": "2025-06-20T13:33:54.861Z"
-    },
-    {
       "id": "task-1750426440662",
       "title": "SAT english practice",
       "type": "self-study",
