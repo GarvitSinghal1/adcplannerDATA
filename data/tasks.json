@@ -97,7 +97,9 @@
       "subtasks": [],
       "recurring": {
         "frequency": "none"
-      }
+      },
+      "completed": true,
+      "completedAt": "2025-06-20T13:33:33.102Z"
     },
     {
       "id": "task-1750393954122",
