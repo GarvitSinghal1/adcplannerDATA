@@ -98,6 +98,21 @@
       "recurring": {
         "frequency": "none"
       }
+    },
+    {
+      "id": "task-1750393954122",
+      "title": "Rev maths",
+      "type": "coaching",
+      "priority": "low",
+      "dueDate": "2025-06-20",
+      "notes": "",
+      "subject": "maths",
+      "dynamicPriority": false,
+      "difficulty": "easy",
+      "subtasks": [],
+      "recurring": {
+        "frequency": "none"
+      }
     }
   ]
 }
