@@ -87,23 +87,6 @@
       }
     },
     {
-      "id": "task-1750393923546",
-      "title": "Rev & copy phy",
-      "type": "coaching",
-      "priority": "high",
-      "dueDate": "2025-06-20",
-      "notes": "",
-      "subject": "phy",
-      "dynamicPriority": true,
-      "difficulty": "medium",
-      "subtasks": [],
-      "recurring": {
-        "frequency": "none"
-      },
-      "completed": true,
-      "completedAt": "2025-06-20T13:33:33.102Z"
-    },
-    {
       "id": "task-1750393954122",
       "title": "Rev maths",
       "type": "coaching",
@@ -119,6 +102,23 @@
       },
       "completed": true,
       "completedAt": "2025-06-20T13:33:46.477Z"
+    },
+    {
+      "id": "task-1750393923546",
+      "title": "Rev & copy phy",
+      "type": "coaching",
+      "priority": "high",
+      "dueDate": "2025-06-20",
+      "notes": "",
+      "subject": "phy",
+      "dynamicPriority": true,
+      "difficulty": "medium",
+      "subtasks": [],
+      "recurring": {
+        "frequency": "none"
+      },
+      "completed": true,
+      "completedAt": "2025-06-20T13:33:33.102Z"
     },
     {
       "id": "task-1750426447493",
