@@ -168,6 +168,21 @@
       "recurring": {
         "frequency": "none"
       }
+    },
+    {
+      "id": "task-1750515773546",
+      "title": "Complete MLE 1&2",
+      "type": "coaching",
+      "priority": "high",
+      "dueDate": "2025-06-23",
+      "notes": "",
+      "subject": "Maths",
+      "dynamicPriority": true,
+      "difficulty": "medium",
+      "subtasks": [],
+      "recurring": {
+        "frequency": "none"
+      }
     }
   ]
 }
