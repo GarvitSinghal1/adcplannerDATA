@@ -153,6 +153,21 @@
       },
       "completed": false,
       "completedAt": null
+    },
+    {
+      "id": "task-1750508584365",
+      "title": "Modify and rev phy notes",
+      "type": "coaching",
+      "priority": "high",
+      "dueDate": "2025-06-22",
+      "notes": "",
+      "subject": "Phy",
+      "dynamicPriority": false,
+      "difficulty": "very-hard",
+      "subtasks": [],
+      "recurring": {
+        "frequency": "none"
+      }
     }
   ]
 }
