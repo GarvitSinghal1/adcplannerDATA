@@ -213,6 +213,21 @@
       "recurring": {
         "frequency": "none"
       }
+    },
+    {
+      "id": "task-1750690061173",
+      "title": "NCERT maths",
+      "type": "coaching",
+      "priority": "high",
+      "dueDate": "2025-06-27",
+      "notes": "",
+      "subject": "Maths",
+      "dynamicPriority": false,
+      "difficulty": "easy",
+      "subtasks": [],
+      "recurring": {
+        "frequency": "weekly"
+      }
     }
   ]
 }
