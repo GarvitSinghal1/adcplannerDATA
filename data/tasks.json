@@ -171,10 +171,10 @@
     },
     {
       "id": "task-1750515773546",
-      "title": "Complete MLE 1&2",
+      "title": "Complete MLE 1&2&3",
       "type": "coaching",
       "priority": "high",
-      "dueDate": "2025-06-23",
+      "dueDate": "2025-06-27",
       "notes": "",
       "subject": "Maths",
       "dynamicPriority": true,
