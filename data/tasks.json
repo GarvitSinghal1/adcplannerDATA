@@ -38,6 +38,23 @@
       "completedAt": "2025-06-19T16:55:35.954Z"
     },
     {
+      "id": "task-1750393954122",
+      "title": "Rev maths",
+      "type": "coaching",
+      "priority": "low",
+      "dueDate": "2025-06-20",
+      "notes": "",
+      "subject": "maths",
+      "dynamicPriority": false,
+      "difficulty": "easy",
+      "subtasks": [],
+      "recurring": {
+        "frequency": "none"
+      },
+      "completed": true,
+      "completedAt": "2025-06-20T13:33:46.477Z"
+    },
+    {
       "id": "task-1750343283785",
       "title": "Mle1 till Q9",
       "type": "coaching",
@@ -70,23 +87,6 @@
       },
       "completed": true,
       "completedAt": "2025-06-19T17:40:27.298Z"
-    },
-    {
-      "id": "task-1750393954122",
-      "title": "Rev maths",
-      "type": "coaching",
-      "priority": "low",
-      "dueDate": "2025-06-20",
-      "notes": "",
-      "subject": "maths",
-      "dynamicPriority": false,
-      "difficulty": "easy",
-      "subtasks": [],
-      "recurring": {
-        "frequency": "none"
-      },
-      "completed": true,
-      "completedAt": "2025-06-20T13:33:46.477Z"
     },
     {
       "id": "task-1750393888498",
