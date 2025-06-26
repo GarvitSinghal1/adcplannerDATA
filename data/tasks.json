@@ -194,7 +194,23 @@
       "subject": "Chem",
       "dynamicPriority": true,
       "difficulty": "medium",
-      "subtasks": [],
+      "subtasks": [
+        {
+          "id": "sub-1750908016840",
+          "text": "1",
+          "completed": false
+        },
+        {
+          "id": "sub-1750908020739",
+          "text": "2",
+          "completed": false
+        },
+        {
+          "id": "sub-1750908025033",
+          "text": "3",
+          "completed": false
+        }
+      ],
       "recurring": {
         "frequency": "none"
       }
