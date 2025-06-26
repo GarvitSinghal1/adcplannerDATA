@@ -1,6 +1,6 @@
 {
   "settings": {
-    "suggestionStrategy": "hardFirst"
+    "suggestionStrategy": "easyFirst"
   },
   "tasks": [
     {
