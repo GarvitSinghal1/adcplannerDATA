@@ -89,21 +89,6 @@
       "completedAt": "2025-06-20T13:33:46.477Z"
     },
     {
-      "id": "task-1750393888498",
-      "title": "Rev & copy Chem",
-      "type": "coaching",
-      "priority": "high",
-      "dueDate": "2025-06-22",
-      "notes": "",
-      "subject": "chem",
-      "dynamicPriority": true,
-      "difficulty": "hard",
-      "subtasks": [],
-      "recurring": {
-        "frequency": "none"
-      }
-    },
-    {
       "id": "task-1750393923546",
       "title": "Rev & copy phy",
       "type": "coaching",
@@ -119,6 +104,21 @@
       },
       "completed": true,
       "completedAt": "2025-06-20T13:33:33.102Z"
+    },
+    {
+      "id": "task-1750393888498",
+      "title": "Rev & copy Chem",
+      "type": "coaching",
+      "priority": "high",
+      "dueDate": "2025-06-22",
+      "notes": "",
+      "subject": "chem",
+      "dynamicPriority": true,
+      "difficulty": "hard",
+      "subtasks": [],
+      "recurring": {
+        "frequency": "none"
+      }
     },
     {
       "id": "task-1750426447493",
