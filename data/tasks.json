@@ -1,42 +1,8 @@
 {
   "settings": {
-    "suggestionStrategy": "easyFirst"
+    "suggestionStrategy": "hardFirst"
   },
   "tasks": [
-    {
-      "id": "task-1750336054623",
-      "title": "Chem REV",
-      "type": "coaching",
-      "priority": "high",
-      "dueDate": "2025-06-19",
-      "notes": "",
-      "subject": "Chem",
-      "dynamicPriority": false,
-      "difficulty": "medium",
-      "subtasks": [],
-      "recurring": {
-        "frequency": "none"
-      },
-      "completed": true,
-      "completedAt": "2025-06-19T16:55:35.954Z"
-    },
-    {
-      "id": "task-1750393923546",
-      "title": "Rev & copy phy",
-      "type": "coaching",
-      "priority": "high",
-      "dueDate": "2025-06-20",
-      "notes": "",
-      "subject": "phy",
-      "dynamicPriority": true,
-      "difficulty": "medium",
-      "subtasks": [],
-      "recurring": {
-        "frequency": "none"
-      },
-      "completed": true,
-      "completedAt": "2025-06-20T13:33:33.102Z"
-    },
     {
       "id": "task-1750335607139",
       "title": "Do HandOut1",
@@ -55,21 +21,21 @@
       "completedAt": "2025-06-21T10:22:59.668Z"
     },
     {
-      "id": "task-1750393954122",
-      "title": "Rev maths",
+      "id": "task-1750336054623",
+      "title": "Chem REV",
       "type": "coaching",
-      "priority": "low",
-      "dueDate": "2025-06-20",
+      "priority": "high",
+      "dueDate": "2025-06-19",
       "notes": "",
-      "subject": "maths",
+      "subject": "Chem",
       "dynamicPriority": false,
-      "difficulty": "easy",
+      "difficulty": "medium",
       "subtasks": [],
       "recurring": {
         "frequency": "none"
       },
       "completed": true,
-      "completedAt": "2025-06-20T13:33:46.477Z"
+      "completedAt": "2025-06-19T16:55:35.954Z"
     },
     {
       "id": "task-1750343283785",
@@ -106,6 +72,23 @@
       "completedAt": "2025-06-19T17:40:27.298Z"
     },
     {
+      "id": "task-1750393954122",
+      "title": "Rev maths",
+      "type": "coaching",
+      "priority": "low",
+      "dueDate": "2025-06-20",
+      "notes": "",
+      "subject": "maths",
+      "dynamicPriority": false,
+      "difficulty": "easy",
+      "subtasks": [],
+      "recurring": {
+        "frequency": "none"
+      },
+      "completed": true,
+      "completedAt": "2025-06-20T13:33:46.477Z"
+    },
+    {
       "id": "task-1750393888498",
       "title": "Rev & copy Chem",
       "type": "coaching",
@@ -119,6 +102,23 @@
       "recurring": {
         "frequency": "none"
       }
+    },
+    {
+      "id": "task-1750393923546",
+      "title": "Rev & copy phy",
+      "type": "coaching",
+      "priority": "high",
+      "dueDate": "2025-06-20",
+      "notes": "",
+      "subject": "phy",
+      "dynamicPriority": true,
+      "difficulty": "medium",
+      "subtasks": [],
+      "recurring": {
+        "frequency": "none"
+      },
+      "completed": true,
+      "completedAt": "2025-06-20T13:33:33.102Z"
     },
     {
       "id": "task-1750426447493",
@@ -194,32 +194,14 @@
       "subject": "Chem",
       "dynamicPriority": true,
       "difficulty": "medium",
-      "subtasks": [
-        {
-          "id": "sub-1750908016840",
-          "text": "1",
-          "completed": true
-        },
-        {
-          "id": "sub-1750908020739",
-          "text": "2",
-          "completed": true
-        },
-        {
-          "id": "sub-1750908025033",
-          "text": "3",
-          "completed": true
-        }
-      ],
+      "subtasks": [],
       "recurring": {
         "frequency": "none"
-      },
-      "completed": true,
-      "completedAt": "2025-06-27T04:02:58.874Z"
+      }
     },
     {
       "id": "task-1750690012033",
-      "title": "MLE 4 ch2",
+      "title": "MLE 4",
       "type": "coaching",
       "priority": "high",
       "dueDate": "2025-06-27",
