@@ -208,12 +208,14 @@
         {
           "id": "sub-1750908025033",
           "text": "3",
-          "completed": false
+          "completed": true
         }
       ],
       "recurring": {
         "frequency": "none"
-      }
+      },
+      "completed": true,
+      "completedAt": "2025-06-27T04:02:57.680Z"
     },
     {
       "id": "task-1750690012033",
