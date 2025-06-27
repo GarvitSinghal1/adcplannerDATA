@@ -4,23 +4,6 @@
   },
   "tasks": [
     {
-      "id": "task-1750335607139",
-      "title": "Do HandOut1",
-      "type": "coaching",
-      "priority": "medium",
-      "dueDate": "2025-06-21",
-      "notes": "",
-      "subject": "Chem",
-      "dynamicPriority": false,
-      "difficulty": "easy",
-      "subtasks": [],
-      "recurring": {
-        "frequency": "none"
-      },
-      "completed": true,
-      "completedAt": "2025-06-21T10:22:59.668Z"
-    },
-    {
       "id": "task-1750336054623",
       "title": "Chem REV",
       "type": "coaching",
@@ -36,6 +19,23 @@
       },
       "completed": true,
       "completedAt": "2025-06-19T16:55:35.954Z"
+    },
+    {
+      "id": "task-1750335607139",
+      "title": "Do HandOut1",
+      "type": "coaching",
+      "priority": "medium",
+      "dueDate": "2025-06-21",
+      "notes": "",
+      "subject": "Chem",
+      "dynamicPriority": false,
+      "difficulty": "easy",
+      "subtasks": [],
+      "recurring": {
+        "frequency": "none"
+      },
+      "completed": true,
+      "completedAt": "2025-06-21T10:22:59.668Z"
     },
     {
       "id": "task-1750393954122",
