@@ -268,6 +268,21 @@
       },
       "completed": false,
       "completedAt": null
+    },
+    {
+      "id": "task-1751285587420",
+      "title": "Exc 1&2 vectors",
+      "type": "coaching",
+      "priority": "high",
+      "dueDate": "2025-07-01",
+      "notes": "",
+      "subject": "Phy",
+      "dynamicPriority": false,
+      "difficulty": "hard",
+      "subtasks": [],
+      "recurring": {
+        "frequency": "none"
+      }
     }
   ]
 }
