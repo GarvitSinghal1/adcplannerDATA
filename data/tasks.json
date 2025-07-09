@@ -237,20 +237,18 @@
     },
     {
       "id": "task-1751100835589",
-      "title": "NCERT maths",
+      "title": "Revise Maths",
       "type": "coaching",
       "priority": "high",
-      "dueDate": "2025-07-04",
+      "dueDate": "2025-07-07",
       "notes": "",
       "subject": "Maths",
       "dynamicPriority": false,
-      "difficulty": "easy",
+      "difficulty": "hard",
       "subtasks": [],
       "recurring": {
         "frequency": "weekly"
-      },
-      "completed": false,
-      "completedAt": null
+      }
     },
     {
       "id": "task-1751285587420",
