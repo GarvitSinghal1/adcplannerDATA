@@ -38,23 +38,6 @@
       "completedAt": "2025-06-21T10:22:59.668Z"
     },
     {
-      "id": "task-1750336054623",
-      "title": "Chem REV",
-      "type": "coaching",
-      "priority": "high",
-      "dueDate": "2025-06-19",
-      "notes": "",
-      "subject": "Chem",
-      "dynamicPriority": false,
-      "difficulty": "medium",
-      "subtasks": [],
-      "recurring": {
-        "frequency": "none"
-      },
-      "completed": true,
-      "completedAt": "2025-06-19T16:55:35.954Z"
-    },
-    {
       "id": "task-1750352236522",
       "title": "Math rev 19/06",
       "type": "coaching",
@@ -70,6 +53,23 @@
       },
       "completed": true,
       "completedAt": "2025-06-19T17:40:27.298Z"
+    },
+    {
+      "id": "task-1750336054623",
+      "title": "Chem REV",
+      "type": "coaching",
+      "priority": "high",
+      "dueDate": "2025-06-19",
+      "notes": "",
+      "subject": "Chem",
+      "dynamicPriority": false,
+      "difficulty": "medium",
+      "subtasks": [],
+      "recurring": {
+        "frequency": "none"
+      },
+      "completed": true,
+      "completedAt": "2025-06-19T16:55:35.954Z"
     },
     {
       "id": "task-1750393954122",
