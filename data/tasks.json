@@ -4,23 +4,6 @@
   },
   "tasks": [
     {
-      "id": "task-1750336054623",
-      "title": "Chem REV",
-      "type": "coaching",
-      "priority": "high",
-      "dueDate": "2025-06-19",
-      "notes": "",
-      "subject": "Chem",
-      "dynamicPriority": false,
-      "difficulty": "medium",
-      "subtasks": [],
-      "recurring": {
-        "frequency": "none"
-      },
-      "completed": true,
-      "completedAt": "2025-06-19T16:55:35.954Z"
-    },
-    {
       "id": "task-1750343283785",
       "title": "Mle1 till Q9",
       "type": "coaching",
@@ -53,6 +36,23 @@
       },
       "completed": true,
       "completedAt": "2025-06-21T10:22:59.668Z"
+    },
+    {
+      "id": "task-1750336054623",
+      "title": "Chem REV",
+      "type": "coaching",
+      "priority": "high",
+      "dueDate": "2025-06-19",
+      "notes": "",
+      "subject": "Chem",
+      "dynamicPriority": false,
+      "difficulty": "medium",
+      "subtasks": [],
+      "recurring": {
+        "frequency": "none"
+      },
+      "completed": true,
+      "completedAt": "2025-06-19T16:55:35.954Z"
     },
     {
       "id": "task-1750352236522",
@@ -107,20 +107,18 @@
     },
     {
       "id": "task-1750393888498",
-      "title": "Revise Chem",
+      "title": "Rev & copy Chem",
       "type": "coaching",
       "priority": "high",
-      "dueDate": "2025-07-07",
+      "dueDate": "2025-06-22",
       "notes": "",
       "subject": "chem",
       "dynamicPriority": true,
       "difficulty": "hard",
       "subtasks": [],
       "recurring": {
-        "frequency": "weekly"
-      },
-      "completed": true,
-      "completedAt": "2025-07-09T13:24:57.618Z"
+        "frequency": "none"
+      }
     },
     {
       "id": "task-1750426447493",
@@ -140,21 +138,34 @@
       "completedAt": "2025-06-20T13:35:58.965Z"
     },
     {
-      "id": "task-1750508584365",
-      "title": "Revise Phy",
-      "type": "coaching",
+      "id": "task-1750426558965",
+      "title": "SAT english practice",
+      "type": "self-study",
       "priority": "high",
-      "dueDate": "2025-07-07",
+      "dueDate": "2025-06-30",
       "notes": "",
-      "subject": "Phy",
-      "dynamicPriority": false,
-      "difficulty": "hard",
+      "subject": "English",
+      "dynamicPriority": true,
+      "difficulty": "medium",
       "subtasks": [],
       "recurring": {
         "frequency": "weekly"
-      },
-      "completed": true,
-      "completedAt": "2025-07-09T13:25:30.810Z"
+      }
+    },
+    {
+      "id": "task-1750508584365",
+      "title": "Modify and rev phy notes",
+      "type": "coaching",
+      "priority": "high",
+      "dueDate": "2025-06-22",
+      "notes": "",
+      "subject": "Phy",
+      "dynamicPriority": false,
+      "difficulty": "very-hard",
+      "subtasks": [],
+      "recurring": {
+        "frequency": "none"
+      }
     },
     {
       "id": "task-1750515773546",
@@ -189,6 +200,21 @@
       },
       "completed": true,
       "completedAt": "2025-06-27T09:31:36.766Z"
+    },
+    {
+      "id": "task-1750690012033",
+      "title": "MLE 4&5&6",
+      "type": "coaching",
+      "priority": "high",
+      "dueDate": "2025-07-01",
+      "notes": "",
+      "subject": "Math",
+      "dynamicPriority": false,
+      "difficulty": "medium",
+      "subtasks": [],
+      "recurring": {
+        "frequency": "none"
+      }
     },
     {
       "id": "task-1750690061173",
@@ -226,10 +252,10 @@
     },
     {
       "id": "task-1751100835589",
-      "title": "Revise Maths",
+      "title": "NCERT maths",
       "type": "coaching",
       "priority": "high",
-      "dueDate": "2025-07-07",
+      "dueDate": "2025-07-04",
       "notes": "",
       "subject": "Maths",
       "dynamicPriority": false,
@@ -238,56 +264,22 @@
       "recurring": {
         "frequency": "weekly"
       },
-      "completed": true,
-      "completedAt": "2025-07-09T13:25:33.354Z"
-    },
-    {
-      "id": "task-1752067497618",
-      "title": "Revise Chem",
-      "type": "coaching",
-      "priority": "high",
-      "dueDate": "2025-07-14",
-      "notes": "",
-      "subject": "chem",
-      "dynamicPriority": true,
-      "difficulty": "hard",
-      "subtasks": [],
-      "recurring": {
-        "frequency": "weekly"
-      },
       "completed": false,
       "completedAt": null
     },
     {
-      "id": "task-1752067530810",
-      "title": "Revise Phy",
+      "id": "task-1751285587420",
+      "title": "Exc 1&2 vectors",
       "type": "coaching",
       "priority": "high",
-      "dueDate": "2025-07-14",
+      "dueDate": "2025-07-01",
       "notes": "",
       "subject": "Phy",
       "dynamicPriority": false,
       "difficulty": "hard",
       "subtasks": [],
       "recurring": {
-        "frequency": "weekly"
-      },
-      "completed": false,
-      "completedAt": null
-    },
-    {
-      "id": "task-1752067533354",
-      "title": "Revise Maths",
-      "type": "coaching",
-      "priority": "high",
-      "dueDate": "2025-07-14",
-      "notes": "",
-      "subject": "Maths",
-      "dynamicPriority": false,
-      "difficulty": "hard",
-      "subtasks": [],
-      "recurring": {
-        "frequency": "weekly"
+        "frequency": "none"
       }
     }
   ]
