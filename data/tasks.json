@@ -237,7 +237,9 @@
       "subtasks": [],
       "recurring": {
         "frequency": "weekly"
-      }
+      },
+      "completed": true,
+      "completedAt": "2025-07-09T13:25:33.354Z"
     },
     {
       "id": "task-1751285587420",
@@ -281,6 +283,23 @@
       "subject": "Phy",
       "dynamicPriority": false,
       "difficulty": "hard",
+      "subtasks": [],
+      "recurring": {
+        "frequency": "weekly"
+      },
+      "completed": false,
+      "completedAt": null
+    },
+    {
+      "id": "task-1752067533354",
+      "title": "Revise Maths",
+      "type": "coaching",
+      "priority": "high",
+      "dueDate": "2025-07-14",
+      "notes": "",
+      "subject": "Maths",
+      "dynamicPriority": false,
+      "difficulty": "easy",
       "subtasks": [],
       "recurring": {
         "frequency": "weekly"
