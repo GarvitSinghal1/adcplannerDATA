@@ -284,13 +284,11 @@
       "notes": "",
       "subject": "Maths",
       "dynamicPriority": false,
-      "difficulty": "easy",
+      "difficulty": "hard",
       "subtasks": [],
       "recurring": {
         "frequency": "weekly"
-      },
-      "completed": false,
-      "completedAt": null
+      }
     }
   ]
 }
