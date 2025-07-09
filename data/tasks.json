@@ -138,21 +138,6 @@
       "completedAt": "2025-06-20T13:35:58.965Z"
     },
     {
-      "id": "task-1750426558965",
-      "title": "SAT english practice",
-      "type": "self-study",
-      "priority": "high",
-      "dueDate": "2025-06-30",
-      "notes": "",
-      "subject": "English",
-      "dynamicPriority": true,
-      "difficulty": "medium",
-      "subtasks": [],
-      "recurring": {
-        "frequency": "weekly"
-      }
-    },
-    {
       "id": "task-1750508584365",
       "title": "Modify and rev phy notes",
       "type": "coaching",
